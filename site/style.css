@@ -20,7 +20,7 @@ p {
 	text-align: center;
 	position: relative;
 	margin: 15px auto 15px auto;
-	overflow: hidden;
+	overflow: auto;
 }
 .row {
 	width: 100%;
@@ -42,6 +42,7 @@ p {
 	padding: 1.8px 2px 0px 2px; 
 	margin:0;
 	background-color: pink;
+	overflow: hidden;
 	}
 	#title2 {
 	position: absolute;
@@ -53,6 +54,7 @@ p {
 	margin:0;
 	color: white;
 	background-color: #e96363;
+	overflow: hidden;
 	}
 	#title3 {
 	position: absolute;
@@ -63,6 +65,7 @@ p {
 	padding: 1.8px 2px 0px 2px; 
 	margin:0;
 	background-color: #ffffcc;
+	overflow: hidden;
 	}
 	.col-lg-1 {
 		width: 8.33%;
@@ -114,6 +117,7 @@ p {
 	padding: 1.8px 2px 0px 2px; 
 	margin:0;
 	background-color: pink;
+	overflow: hidden;
 	}
 	  #title2 {
 	position: absolute;
@@ -125,6 +129,7 @@ p {
 	margin: 0;
 	background-color: #e96363;
 	color: white;
+	overflow: hidden;
 	}
 	#title3 {
 	position: absolute;
@@ -135,6 +140,7 @@ p {
 	padding: 1.8px 2px 0px 2px; 
 	margin: 0;
 	background-color: #ffffcc;
+	overflow: hidden;
 	}
   .col-md-1 {
     width: 8.33%;
@@ -186,6 +192,7 @@ p {
 	padding: 1.8px 2px 0px 2px; 
 	margin:0;
 	background-color: pink;
+	overflow: hidden;
 	}
   #title2 {
 	position: absolute;
@@ -197,6 +204,7 @@ p {
 	margin:0;
 	background-color: #e96363;
 	color: white;
+	overflow: hidden;
 	}
   #title3 {
 	position: absolute;
@@ -207,6 +215,7 @@ p {
 	padding: 1.8px 2px 0px 2px; 
 	margin:0;
 	background-color: #ffffcc;
+	overflow: hidden;
 	}	
   .col-xs-1 {
     width: 8.33%;
